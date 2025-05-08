@@ -1,2 +1,2 @@
 # Project1
-Amazon clone
+ Amazon clone
